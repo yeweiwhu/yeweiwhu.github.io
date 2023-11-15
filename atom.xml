@@ -6,7 +6,7 @@
   <link href="http://yeweiwhu.github.io/atom.xml" rel="self"/>
   
   <link href="http://yeweiwhu.github.io/"/>
-  <updated>2023-11-14T03:15:52.400Z</updated>
+  <updated>2023-11-15T03:48:45.152Z</updated>
   <id>http://yeweiwhu.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yeweiwhu.github.io/2023/11/15/test/"/>
+    <id>http://yeweiwhu.github.io/2023/11/15/test/</id>
+    <published>2023-11-15T03:47:29.000Z</published>
+    <updated>2023-11-15T03:48:45.152Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;永远相信美好的事情即将发生~&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2023/11/15/tes/pasted-1.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
